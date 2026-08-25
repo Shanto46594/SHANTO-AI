@@ -106,5 +106,5 @@ def upload():
 
 if __name__ == '__main__':
     # সার্ভার সব লোকাল ও ওয়াইফাই আইপিতে রান করবে
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=8080)
     
